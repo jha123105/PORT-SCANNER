@@ -73,7 +73,7 @@ pip install customtkinter
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/port-scanner.git
+git clone https://github.com/jha123105/port-scanner.git
 cd port-scanner
 ```
 
