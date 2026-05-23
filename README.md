@@ -143,17 +143,7 @@ python main.py
 
 ## Screenshot
 
-```markdown
 ![Screenshot](screenshots/main-window.png)
-```
-
-Example project structure:
-
-```text
-port-scanner/
-├── screenshots/
-│   └── main-window.png
-```
 
 ---
 
